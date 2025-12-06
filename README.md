@@ -1,9 +1,9 @@
 # Hi there 👋
 
-Hey, My name is Ariel Cavalcanti (she/her). I'm Computer Science student on CESAR School (Brasil)
+Hey, My name is Ariel Cavalcanti (she/her). I'm Computer Science student on CESAR School (Brasil).
 I really enjoy reading and gaming, currenly wanting to be a Fullstack developer.
 # 💫 About Me:
-👾 I’m developing a Game (Unity)<br>🌱 I’m currently learning C#, Music, UI/UX<br>💬 Ask me about Python, Unity, Arduino<br>⚡ Fun fact i watched harry potter 5 times
+👾 I’m developing a Game (Unity)<br>🌱 I’m currently learning C#, Music, UI/UX<br>💬 Ask me about Python, Unity, Arduino<br>⚡ Fun fact I watched harry potter 5 times
 
 
 ## 🌐 Socials:
